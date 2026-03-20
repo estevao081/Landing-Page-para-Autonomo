@@ -8,7 +8,7 @@
 
 > Landing Page responsiva e de alto impacto para personal trainer. Desenvolvida como trabalho acadêmico com foco em conversão, credibilidade e experiência do usuário.
 
-🔗 **Acesse o projeto online:** [https://landingpageparaautonomo.netlify.app/](#)
+🔗 **Acesse o projeto online:** [landingpageparaautonomo.netlify.app](https://landingpageparaautonomo.netlify.app)
 
 ---
 
